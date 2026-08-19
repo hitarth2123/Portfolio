@@ -1,0 +1,134 @@
+{
+  "personal": {
+    "name": "Hitarth Patel",
+    "title": "Senior Full Stack Engineer | Principal/Staff Level",
+    "location": "Mumbai, Maharashtra, India",
+    "email": "hitarthv2115@gmail.com",
+    "linkedin": "Linkedin.com/in/hitarth-patel-38863b423/",
+    "github": "github.com/hitarth2123",
+    "summary": "Results-driven Senior Full Stack Engineer with hands-on experience designing and building scalable web applications, RESTful/GraphQL APIs, and real-time distributed systems using React, Node.js, and modern cloud-ready architectures. Proven track record across the full SDLC, improving system reliability by 30%, cutting production error rates, and boosting database performance. Strong product engineering mindset with a focus on System Design, Microservices, and DevOps best practices to drive measurable outcomes and technical excellence."
+  },
+  "jdKeywords": [
+    "React",
+    "Next.js",
+    "Node.js",
+    "Go",
+    "Python",
+    "PostgreSQL",
+    "MongoDB",
+    "Redis",
+    "Kafka",
+    "AWS",
+    "Docker",
+    "Kubernetes",
+    "CI/CD",
+    "Jest",
+    "System Design",
+    "Architecture",
+    "Scalability",
+    "DevOps",
+    "Microservices",
+    "RESTful",
+    "GraphQL"
+  ],
+  "experience": [
+    {
+      "role": "Full Stack Developer",
+      "company": "Learntricks",
+      "period": "Aug 2025 – Sept 2025",
+      "points": [
+        "Architected and maintained scalable backend services, databases, and RESTful APIs supporting multiple production websites, improving overall system reliability by 30%.",
+        "Conducted comprehensive code reviews, debugged critical production issues, and implemented bug fixes that reduced error rates by 25%.",
+        "Designed and implemented secure APIs for third-party integrations, ensuring seamless connectivity while maintaining high performance benchmarks."
+      ]
+    },
+    {
+      "role": "Full Stack Developer Intern",
+      "company": "Ibtidaa Tech",
+      "period": "Jul 2025 – Aug 2025",
+      "points": [
+        "Developed, modified, and debugged complex application programs independently, delivering features ahead of schedule.",
+        "Collaborated with senior software engineers to implement product features using React, HTML5, CSS3, JavaScript, and backend logic.",
+        "Contributed to frontend and backend development in an Agile/Scrum team environment."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "QuickAlert",
+      "subtitle": "Real-Time Emergency Geofencing & Alerting System",
+      "image": "/proj-quickalert.png",
+      "description": "A real-time incident mapping and emergency notification platform. Designed an event-driven architecture cutting coordinate proximity search latency from 120ms to under 5ms, avoiding server thread-pool exhaustion during surge incidents.",
+      "stack": [
+        "React 19",
+        "Vite",
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "Socket.IO",
+        "Tailwind CSS"
+      ],
+      "link": "#"
+    },
+    {
+      "title": "ShopEase",
+      "subtitle": "Scalable E-Commerce Backend System Design",
+      "image": "/proj-shopease.png",
+      "description": "A distributed system design modeling high-performance transaction flows, databases, caching, and buffering pipelines. Avoided data duplication and database write lock bottlenecks during peak traffic sales by decoupling services.",
+      "stack": [
+        "Python",
+        "PostgreSQL (sharded)",
+        "MongoDB",
+        "Redis",
+        "Kafka",
+        "Microservices"
+      ],
+      "link": "#"
+    },
+    {
+      "title": "RailConnect",
+      "subtitle": "Transportation Authority DevOps Platform",
+      "image": "/proj-railconnect.png",
+      "description": "A production-grade DevOps and systems infrastructure platform supporting automated high-availability deployments. Automated dynamic infrastructure scaling and ensured zero-downtime application upgrades under heavy traffic.",
+      "stack": [
+        "Flask",
+        "Docker",
+        "Kubernetes",
+        "AWS EKS",
+        "Terraform",
+        "Jenkins",
+        "Prometheus"
+      ],
+      "link": "#"
+    },
+    {
+      "title": "ConnectHub",
+      "subtitle": "Go Microservices Social Network",
+      "image": "/proj-connecthub.png",
+      "description": "A microservices-based platform separating authentication, posting, chat, and notification layers. Achieved high scalability and fault tolerance by decoupling stateful sessions and chat streams from standard stateless REST endpoints.",
+      "stack": [
+        "Go",
+        "React",
+        "MongoDB",
+        "Docker",
+        "Nginx",
+        "Microservices"
+      ],
+      "link": "#"
+    },
+    {
+      "title": "Evently",
+      "subtitle": "Next.js 14 Events Hub",
+      "image": "/proj-evently.png",
+      "description": "A global full-stack events hub allowing organizers to create and list events. Built using Next.js 14 Server Actions and React Hook Form, reducing client bundle size via server-side rendering while ensuring secure payments.",
+      "stack": [
+        "Next.js 14",
+        "TypeScript",
+        "MongoDB",
+        "Clerk",
+        "Stripe"
+      ],
+      "link": "#"
+    }
+  ]
+}
