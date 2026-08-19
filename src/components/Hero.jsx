@@ -45,7 +45,7 @@ const Hero = ({ data, keywords }) => {
 
           <div className="hero-card">
             <img
-              src="/profile.jpg"
+              src="https://github.com/hitarth2123/Portfolio/blob/main/public/profile.jpg?raw=true"
               alt={`${data.name} - Full Stack Developer`}
               className="hero-card-image"
             />
