@@ -73,7 +73,7 @@
     {
       "title": "ShopEase",
       "subtitle": "Scalable E-Commerce Backend System Design",
-      "image": "/proj-shopease.png",
+      "image": "https://github.com/hitarth2123/Portfolio/blob/main/public/proj-shopease.png?raw=true",
       "description": "A distributed system design modeling high-performance transaction flows, databases, caching, and buffering pipelines. Avoided data duplication and database write lock bottlenecks during peak traffic sales by decoupling services.",
       "stack": [
         "Python",
