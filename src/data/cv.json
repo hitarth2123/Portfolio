@@ -104,7 +104,7 @@
     {
       "title": "ConnectHub",
       "subtitle": "Go Microservices Social Network",
-      "image": "/proj-connecthub.png",
+      "image": "https://github.com/hitarth2123/Portfolio/blob/main/public/proj-connecthub.png?raw=true",
       "description": "A microservices-based platform separating authentication, posting, chat, and notification layers. Achieved high scalability and fault tolerance by decoupling stateful sessions and chat streams from standard stateless REST endpoints.",
       "stack": [
         "Go",
