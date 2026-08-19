@@ -88,7 +88,7 @@
     {
       "title": "RailConnect",
       "subtitle": "Transportation Authority DevOps Platform",
-      "image": "/proj-railconnect.png",
+      "image": "https://github.com/hitarth2123/Portfolio/blob/main/public/proj-railconnect.png?raw=true",
       "description": "A production-grade DevOps and systems infrastructure platform supporting automated high-availability deployments. Automated dynamic infrastructure scaling and ensured zero-downtime application upgrades under heavy traffic.",
       "stack": [
         "Flask",
