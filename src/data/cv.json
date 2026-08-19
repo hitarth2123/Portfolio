@@ -57,7 +57,7 @@
     {
       "title": "QuickAlert",
       "subtitle": "Real-Time Emergency Geofencing & Alerting System",
-      "image": "/proj-quickalert.png",
+      "image": "https://github.com/hitarth2123/Portfolio/blob/main/public/proj-quickalert.png?raw=true",
       "description": "A real-time incident mapping and emergency notification platform. Designed an event-driven architecture cutting coordinate proximity search latency from 120ms to under 5ms, avoiding server thread-pool exhaustion during surge incidents.",
       "stack": [
         "React 19",
