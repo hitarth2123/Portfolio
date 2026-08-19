@@ -119,7 +119,7 @@
     {
       "title": "Evently",
       "subtitle": "Next.js 14 Events Hub",
-      "image": "/proj-evently.png",
+      "image": "https://github.com/hitarth2123/Portfolio/blob/main/public/proj-evently.png?raw=true",
       "description": "A global full-stack events hub allowing organizers to create and list events. Built using Next.js 14 Server Actions and React Hook Form, reducing client bundle size via server-side rendering while ensuring secure payments.",
       "stack": [
         "Next.js 14",
