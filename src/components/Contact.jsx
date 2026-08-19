@@ -10,7 +10,7 @@ const Contact = ({ data }) => {
             LET'S <span className="primary-design-text">CONNECT</span>
           </h2>
           <p className="cta-desc">
-            Currently open to new opportunities as a Senior Full Stack Engineer.
+            Currently open to new opportunities a Full Stack Engineer.
             Whether you have a question or want to discuss a project, I'll get back to you!
           </p>
           <a href={`mailto:${data.email}`} className="primary-button">
